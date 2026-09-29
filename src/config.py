@@ -1,4 +1,5 @@
 DATA_PATH = "data/transactions.csv"
+SAMPLE_PATH = "data/sample_transactions.csv"
 
 # Left side = column name in the DLD file. Right side = the name we use.
 COLUMN_MAP = {
